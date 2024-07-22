@@ -16,7 +16,7 @@ StoreLocatorPredictor is a Python-based project that predicts the actual locatio
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/StoreLocatorPredictor.git
+    git clone https://github.com/BusraEcemSakar/StoreLocatorPredictor.git
     ```
 
 2. Install dependencies:
